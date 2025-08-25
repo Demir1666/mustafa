@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A Mechatronics Engineering student working on engineering projects and simulations</h3>
 
